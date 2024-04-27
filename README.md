@@ -20,5 +20,4 @@ and you can shoot people in a XCOM like gameplay.
 - Finish the Game Develpment Document
 - Make some concept art of the waifus (yes I am an artist, but I don't have time for that)
 
-Feel free to send me a message:
-My discord: kunhah
+Feel free to send me a message on my discord: kunhah
