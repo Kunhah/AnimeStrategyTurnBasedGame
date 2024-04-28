@@ -18,6 +18,6 @@ and you can shoot people in a XCOM like gameplay.
 - Find a way to make the A* pathfinding calculate the shortest route without instantly crashing the game (It is only calculating based on the closest tile).
 - Buy the commercial version of the unreal engine genshin shader to use here.
 - Finish the Game Develpment Document (GDD)
-- Make some concept art of the characters (yes I am an artist, but I don't have time for that)
+- Make some concept art of the characters
 
 Feel free to send me a message on my discord: kunhah
