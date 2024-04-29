@@ -12,7 +12,7 @@ Vai ter personagens daora... e eu acho que vai ter uma historinha
 mas que provavelmente ninguém vai se importar, eu acho que vai ser sobre crime,
 e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 
-## PARA FAZAR:
+## PARA FAZER:
 - Temos um total de 0 modelos 3d que não irão ser substituídos depois, ter pelo menos alguns já daria uma coisa a mais
 - Dar um jeito de fazer o algorítimo de encontrar caminho A* calcular a rota mais curta sem crashar o jogo instantaneamente (Só ta calculando se baseando no quadrado mais próximo)
 - Comprar a versão comercial do shader que imita o visual de Genshin na unreal
