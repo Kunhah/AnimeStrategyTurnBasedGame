@@ -45,5 +45,5 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 - Finalizar o documento de desenvolvimento do jogo (GDD)
 - Fazer a arte conceitual dos personagens
 
-Feel free to send me a message on my discord: kunhah
+Sinta-se livre pra me mandar mensagem no discord: kunhah
 
