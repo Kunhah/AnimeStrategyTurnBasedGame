@@ -1,5 +1,6 @@
 ## Welcome to the strategy turn based anime game
 
+This is a project made for fun purposes, there is no compromisse on completing it.
 I had a few names for the project, but I will call it that for now.
 I had many inspirations, a mix of XCOM and Pathfinder 2e in gameplay,
 some other anime games that I found in darkest corners of the internet,
@@ -26,6 +27,7 @@ Feel free to send me a message on my discord: kunhah
 
 ## Bem vindo ao jogo de estratégia de turnos em anime
 
+Esse projeto foi feito por diversão, não há compromisso em terminar.
 Eu tinha alguns possíveis nomes para o projeto, mas vai ser isso até eu encontrar um nome bom.
 Eu tive muitas inspirações, uma mistura de XCOM com Pathfinder 2e na gameplay,
 e alguns outros jogos de anime que eu encontrei nos cantos mais sombrios da internet,
