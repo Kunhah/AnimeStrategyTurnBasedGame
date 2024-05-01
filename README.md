@@ -19,7 +19,15 @@ and you can shoot people in a XCOM like gameplay.
 - Find a way to make the A* pathfinding calculate the shortest route without instantly crashing the game (It is only calculating based on the closest tile).
 - Buy the commercial version of the unreal engine genshin shader to use here.
 - Finish the Game Develpment Document (GDD)
-- Make some concept art of the characters
+- Make some concept art of the characters.
+
+### Keyboard commands:
+
+`Tab` to pass turn
+`C` to change camera angle
+`K` to attack/damage
+
+I think that is it for now
 
 Feel free to send me a message on my discord: kunhah
 
@@ -45,7 +53,15 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 - Dar um jeito de fazer o algorítimo de encontrar caminho A* calcular a rota mais curta sem crashar o jogo instantaneamente (Só ta calculando se baseando no quadrado mais próximo)
 - Comprar a versão comercial do shader que imita o visual de Genshin na unreal
 - Finalizar o documento de desenvolvimento do jogo (GDD)
-- Fazer a arte conceitual dos personagens
+- Fazer a arte conceitual dos personagens.
+
+### Comandos no teclado:
+
+`Tab` para passar o turno
+`C` para mudar o angulo da camera
+`K` para atacar/dar dano
+
+Eu acho que é isso por enquanto
 
 Sinta-se livre pra me mandar mensagem no discord: kunhah
 
