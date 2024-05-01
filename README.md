@@ -23,9 +23,9 @@ and you can shoot people in a XCOM like gameplay.
 
 ### Keyboard commands:
 
-`Tab` to pass turn
-`C` to change camera angle
-`K` to attack/damage
+- `Tab` to pass turn
+- `C` to change camera angle
+- `K` to attack/damage
 
 I think that is it for now
 
@@ -57,9 +57,9 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 
 ### Comandos no teclado:
 
-`Tab` para passar o turno
-`C` para mudar o angulo da camera
-`K` para atacar/dar dano
+- `Tab` para passar o turno
+- `C` para mudar o angulo da camera
+- `K` para atacar/dar dano
 
 Eu acho que é isso por enquanto
 
