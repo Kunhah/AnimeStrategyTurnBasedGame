@@ -28,7 +28,7 @@ and you can shoot people in a XCOM like gameplay.
 ### Know bugs:
 - Sometimes the pathfinding system sends you to 0;0;0 before sending you to the correct location. A simple check would solve but I don't know if when it happens the one of the locations is excluded.
 - For a completely unknow reason an index box (those colored boxes that you have to click to move) spawned in the air.
-- I broke the pathfinding while trying to update the pathfinding to work with Z axis, so it will take a while to make it work properly in 3d.
+- I broke the pathfinding while trying to update the pathfinding to work with Z axis, so it will take a while to make it work properly in 3d. At the moment, pathfinding has two know bugs: moving for the first time causes the index box not to be show again, and when moving again, causes the pathfinding to enter in an infinite loop (which means it never finds the path). Moving to a location in which Z is different than 0 also causes the pathfinding to enter in an infinite loop.
 
 ### Keyboard commands:
 
@@ -76,7 +76,7 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 ### Bugs conhecidos:
 - As vezes o pathfinding vai te mandar para a localização 0;0;0 antes de te mandar para a localização certa. Uma simples checagem resolveria, mas eu não sei se uma das localizações é excluída quando acontece.
 - Por alguma razão completamente deconhecida uma index box (aquelas caixas coloridas que você tem que clicar pra mover) spawnou no ar.
-- Eu quebrei o pathfinding tentando fazer com que ele funcione no eixo Z, então vai levar um tempinho a mais para fazer com que ele funcione em 3d.
+- Eu quebrei o pathfinding tentando fazer com que ele funcione no eixo Z, então vai levar um tempinho a mais para fazer com que ele funcione em 3d. No momento o pathfinding possui dois bugs conhecidos: andar pela primeira vez faz com que as index box não sejam mostradas novamente, e ao andar novamente, o pathfinding entra em um looping infinito (o que significa que ele nunca encontra o lugar). Andar para uma localização com o Z diferente de 0 faz o pathfinding também entre em looping infinito.
 
 ### Comandos no teclado:
 
