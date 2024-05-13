@@ -17,13 +17,14 @@ and you can shoot people in a XCOM like gameplay.
 ### TO DO:
 - There is no 3d asset in the game that is not a placeholder, at least adding something would be good.
 - Find a way to make the A* pathfinding calculate the shortest route without instantly crashing the game (It is only calculating based on the closest tile).
-- Buy the commercial version of the unreal engine genshin shader to use here.
+- Buy the commercial version of the unreal engine genshin shader to use here (I think that a visual closer to Guilty Gear would be better, but that shader can still be used).
 - Finish the Game Develpment Document (GDD)
 - Make some concept art of the characters.
 - Solve the pathfinding bugs and make it work.
 - Implement a menu and a user interface.
 - Solve the stairs problem, how is the movement cost be calculated? Will the character teleport from one point to the other? Will it be possible to stop in the middle of the stairs? What if someone passes through the stairs tile but doesn't want to climb the stairs?
 - Solve the problem about the path calculation having to be displayed to the player before he presses to move.
+- Write in C++ all heavy functions in the game (especially pathfinding) and implement it with the blueprints somehow.
 
 ### Know bugs:
 - Sometimes the pathfinding system sends you to 0;0;0 before sending you to the correct location. A simple check would solve but I don't know if when it happens the one of the locations is excluded.
@@ -65,13 +66,14 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 ### PARA FAZER:
 - Temos um total de 0 modelos 3d que não irão ser substituídos depois, ter pelo menos alguns já daria uma coisa a mais.
 - Dar um jeito de fazer o algorítimo de encontrar caminho A* calcular a rota mais curta sem crashar o jogo instantaneamente (Só ta calculando se baseando no quadrado mais próximo).
-- Comprar a versão comercial do shader que imita o visual de Genshin na unreal.
+- Comprar a versão comercial do shader que imita o visual de Genshin na unreal (Eu acho que um visual no estilo Guilty Gear seria melhor, porém esse shader ainda teria utilidade).
 - Finalizar o documento de desenvolvimento do jogo (GDD).
 - Fazer a arte conceitual dos personagens.
 - Resolver os bugs do pathfinding e fazer funcionar de uma vez.
 - Implementar um menu e uma interface de usuário.
 - Resolver o problema das escadas, como o custo de movimentação vai ser calculado? O personagem vai teleportar de uma ponta a outra da escada? Vai ser possível para no meio da escada? E o que acontece se alguém passar no quadrado da escada mas não quiser subir?
 - Resolver o problema do calculo do ter que ser mostrado ao usuário antes dele clicar para mover.
+- Escrever em C++ as funções mais pesadas do jogo (especialmente pathfinding), e implementar junto das blueprints de alguma forma.
 
 ### Bugs conhecidos:
 - As vezes o pathfinding vai te mandar para a localização 0;0;0 antes de te mandar para a localização certa. Uma simples checagem resolveria, mas eu não sei se uma das localizações é excluída quando acontece.
