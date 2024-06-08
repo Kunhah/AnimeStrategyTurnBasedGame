@@ -46,6 +46,8 @@ I think that is it for now.
 
 Feel free to send me a message on my discord: kunhah
 
+Most recent video of how it is: https://www.youtube.com/watch?v=r_ZeXtynJdA
+
 -------------------------------------------------------------
 
 ## Bem vindo ao jogo de estratégia de turnos em anime
@@ -71,7 +73,7 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 - Fazer a arte conceitual dos personagens.
 - Resolver os bugs do pathfinding e fazer funcionar de uma vez.
 - Implementar um menu e uma interface de usuário.
-- Resolver o problema das escadas, como o custo de movimentação vai ser calculado? O personagem vai teleportar de uma ponta a outra da escada? Vai ser possível para no meio da escada? E o que acontece se alguém passar no quadrado da escada mas não quiser subir?
+- Resolver o problema das escadas, como o custo de movimentação vai ser calculado? O personagem vai teleportar de uma ponta a outra da escada? Vai ser possível parar no meio da escada? E o que acontece se alguém passar no quadrado da escada mas não quiser subir?
 - Resolver o problema do calculo do ter que ser mostrado ao usuário antes dele clicar para mover.
 - Escrever em C++ as funções mais pesadas do jogo (especialmente pathfinding), e implementar junto das blueprints de alguma forma.
 
@@ -88,11 +90,13 @@ e você vai poder atirar em pessoas num gameplay ao estilo XCOM.
 - `L` para dar console.log na sua localização.
 - `K` para atacar/dar dano (precisa ter um inimigo selecionado).
 - `W,A,S,D` para mover a camera.
-- `Up,Down,Left,Righy` para rotacionar a camera.
+- `Up,Down,Left,Right` para rotacionar a camera.
 - `Q,E` para também rotacionar a camera.
 
 
 Eu acho que é isso por enquanto.
 
 Sinta-se livre pra me mandar mensagem no discord: kunhah
+
+Vídeo mais recente de como está: https://www.youtube.com/watch?v=r_ZeXtynJdA
 
